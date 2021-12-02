@@ -1,1 +1,1 @@
-github "SDWebImage/libde265-Xcode"
+github "esphynox/libde265-Xcode" ~> 1.0.9
